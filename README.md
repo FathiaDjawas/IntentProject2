@@ -1,13 +1,24 @@
 # IntentProject2
-Nama        : Fathia Wardah S.Djawas
-
-NIM         : 312210196
-
-Kelas       : TI.22.A1
-
-Mata Kuliah : Pemrograman Mobile 1
-
-Dosen       : Donny Maulana, S.Kom., M.M.S.I.
-
+<table>
+  <tr>
+    <th colspan="2">DATA MAHASISWA</th>
+  </tr>
+  <tr>
+    <td>Nama</td>
+    <td> Fathia Wardah S.Djawas </td>
+  </tr>
+  <tr>
+    <td>NIM</td>
+    <td>312210196</td>
+  </tr>
+  <tr>
+    <td>Kelas</td>
+    <td>TI.22.A1</td>
+  </tr>
+  <tr>
+    <td>Dosen</td>
+    <td>Donny Maulana, S.Kom., M.M.S.I.</td>
+  </tr>
+</table>
 
 
