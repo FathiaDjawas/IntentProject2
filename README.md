@@ -1304,6 +1304,10 @@ private void openMaps(Uri geoLocation) {
 
 
 
+https://github.com/FathiaDjawas/IntentProject2/assets/115916422/fc86e33c-27af-43a4-b246-ef2fd5c7c7cc
+
+
+
 
 
 ## Finish, Terima Kasih
